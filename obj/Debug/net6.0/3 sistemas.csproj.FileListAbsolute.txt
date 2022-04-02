@@ -1,0 +1,45 @@
+C:\Users\Fito\Documents\3 sistemas\bin\Debug\net6.0\3 sistemas.exe
+C:\Users\Fito\Documents\3 sistemas\bin\Debug\net6.0\3 sistemas.deps.json
+C:\Users\Fito\Documents\3 sistemas\bin\Debug\net6.0\3 sistemas.runtimeconfig.json
+C:\Users\Fito\Documents\3 sistemas\bin\Debug\net6.0\3 sistemas.dll
+C:\Users\Fito\Documents\3 sistemas\bin\Debug\net6.0\3 sistemas.pdb
+C:\Users\Fito\Documents\3 sistemas\obj\Debug\net6.0\3 sistemas.csproj.AssemblyReference.cache
+C:\Users\Fito\Documents\3 sistemas\obj\Debug\net6.0\3 sistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fito\Documents\3 sistemas\obj\Debug\net6.0\3 sistemas.AssemblyInfoInputs.cache
+C:\Users\Fito\Documents\3 sistemas\obj\Debug\net6.0\3 sistemas.AssemblyInfo.cs
+C:\Users\Fito\Documents\3 sistemas\obj\Debug\net6.0\3 sistemas.csproj.CoreCompileInputs.cache
+C:\Users\Fito\Documents\3 sistemas\obj\Debug\net6.0\3 sistemas.dll
+C:\Users\Fito\Documents\3 sistemas\obj\Debug\net6.0\refint\3 sistemas.dll
+C:\Users\Fito\Documents\3 sistemas\obj\Debug\net6.0\3 sistemas.pdb
+C:\Users\Fito\Documents\3 sistemas\obj\Debug\net6.0\3 sistemas.genruntimeconfig.cache
+C:\Users\Fito\Documents\3 sistemas\obj\Debug\net6.0\ref\3 sistemas.dll
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\bin\Debug\net6.0\3 sistemas.exe
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\bin\Debug\net6.0\3 sistemas.deps.json
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\bin\Debug\net6.0\3 sistemas.runtimeconfig.json
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\bin\Debug\net6.0\3 sistemas.dll
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\bin\Debug\net6.0\3 sistemas.pdb
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\obj\Debug\net6.0\3 sistemas.csproj.AssemblyReference.cache
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\obj\Debug\net6.0\3 sistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\obj\Debug\net6.0\3 sistemas.AssemblyInfoInputs.cache
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\obj\Debug\net6.0\3 sistemas.AssemblyInfo.cs
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\obj\Debug\net6.0\3 sistemas.csproj.CoreCompileInputs.cache
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\obj\Debug\net6.0\3 sistemas.dll
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\obj\Debug\net6.0\refint\3 sistemas.dll
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\obj\Debug\net6.0\3 sistemas.pdb
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\obj\Debug\net6.0\3 sistemas.genruntimeconfig.cache
+C:\Users\Fito\Documents\3 sistemas\calculadoraMedia\obj\Debug\net6.0\ref\3 sistemas.dll
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\obj\Debug\net6.0\3 sistemas.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\obj\Debug\net6.0\3 sistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\obj\Debug\net6.0\3 sistemas.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\obj\Debug\net6.0\3 sistemas.AssemblyInfo.cs
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\obj\Debug\net6.0\3 sistemas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\obj\Debug\net6.0\3 sistemas.dll
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\obj\Debug\net6.0\refint\3 sistemas.dll
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\obj\Debug\net6.0\3 sistemas.pdb
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\bin\Debug\net6.0\3 sistemas.exe
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\bin\Debug\net6.0\3 sistemas.deps.json
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\bin\Debug\net6.0\3 sistemas.runtimeconfig.json
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\bin\Debug\net6.0\3 sistemas.dll
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\bin\Debug\net6.0\3 sistemas.pdb
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\obj\Debug\net6.0\3 sistemas.genruntimeconfig.cache
+C:\Users\Pichau\Documents\LPS3SISTEMAS\calculadoraMedia\obj\Debug\net6.0\ref\3 sistemas.dll
