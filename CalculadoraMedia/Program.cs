@@ -22,7 +22,7 @@ while(true) //Enquanto for true
     }
     else if(saair == "N") { //Se saair for igual a N
 
-        break; //Sai do laço
+        break; //Sai do laçoo
     }
     else {  //Se saair for diferente de S ou N
         Console.WriteLine("Digite uma opcao valida");  //Imprime na tela Digite uma opcao valida
